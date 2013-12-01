@@ -8,7 +8,7 @@
 
 ##问题
 
-旧版滔滔[地址][http://ctc.qzs.qq.com/qzone/blog/blog_mood.html].
+旧版滔滔 [地址](http://ctc.qzs.qq.com/qzone/blog/blog_mood.html).
 
 目前旧版滔滔有bug，最多只能展示148 个（貌似非必现。看了下代码，获取总量的cgi返回的数据有误。）
 
