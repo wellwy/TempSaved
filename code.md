@@ -28,7 +28,7 @@
 
 ###Step0：准备
 - 登录自己的QZone
-- 访问旧版滔滔[地址][http://ctc.qzs.qq.com/qzone/blog/blog_mood.html].
+- 访问旧版滔滔[地址](http://ctc.qzs.qq.com/qzone/blog/blog_mood.html).
 
 ###Step1：确定总条数
 - 在浏览器中贴上获取列表的CGI
